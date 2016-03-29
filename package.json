@@ -1,0 +1,23 @@
+{
+  "name": "sharedjs",
+  "version": "0.0.0",
+  "description": "Js global without the global",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sharedJs"
+  },
+  "keywords": [
+    "javascript",
+    "global"
+  ],
+  "author": "Petter Ahlberg",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
